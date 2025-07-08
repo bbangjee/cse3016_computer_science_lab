@@ -26,7 +26,7 @@
 - **Week 14**: moore machine, mealy machine
 
 ## ⚠️ Notice
-Week 01 ~ Week 03: Source files (xdc, testbench, design) are currently missing.
+Week 03: Source files (xdc, testbench, design) are missing.
 
 보고서 관련 참고 사항: 13주차 예비보고서 (-1점), 8주차 결과보고서 (-2점), 2주차 결과보고서 (-3점)
 
